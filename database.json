@@ -4,11 +4,6 @@
     "password": "admin123",
     "status": "acces"
   },
-  "2": {
-    "username": "farel",
-    "password": "farel456",
-    "status": "acces"
-  },
   "3": {
     "username": "ilyushin",
     "password": "ilyushin123",
