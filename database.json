@@ -3,10 +3,5 @@
     "username": "admin",
     "password": "admin123",
     "status": "acces"
-  },
-  "3": {
-    "username": "Farel",
-    "password": "Farelkangrename",
-    "status": "acces"
   }
 }
