@@ -8,5 +8,10 @@
     "username": "farel",
     "password": "farel123",
     "status": "acces"
+  },
+  "3": {
+    "username": "ilyushin",
+    "password": "ilyushin123",
+    "status": "acces"
   }
 }
