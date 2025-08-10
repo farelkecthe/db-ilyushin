@@ -3,5 +3,10 @@
     "username": "admin",
     "password": "admin123",
     "status": "acces"
+  },
+  "2": {
+    "username": "Farel",
+    "password": "12345678",
+    "status": "acces"
   }
 }
