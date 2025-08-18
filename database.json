@@ -13,5 +13,10 @@
     "username": "farel",
     "password": "sukacoli",
     "status": "acces"
+  },
+  "4": {
+    "username": "deva",
+    "password": "deva123",
+    "status": "acces"
   }
 }
